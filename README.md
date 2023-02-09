@@ -2,7 +2,7 @@
 
 Sou estudante de programação, amo codificar e atualmente procurando uma oportunidade de trabalho na área. Estou sempre em busca de aprender mais e expandir meus conhecimentos.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauricio-Chiapetta&show_icons=true&theme=merko)
+![Mauricio-Chiapetta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauricio-Chiapetta&show_icons=true&theme=merko)
 
 
 ## Tecnologias que eu utilizo:
