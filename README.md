@@ -1,11 +1,10 @@
-### Olá, eu sou o Mauricio Chiapetta! 🤙  
+### Hi, i'm Mauricio Chiapetta! 🤙  
 
-Sou estudante de programação, amo codificar e atualmente procurando uma oportunidade de trabalho na área. Estou sempre em busca de aprender mais e expandir meus conhecimentos.
-
+I'm a programming student, I love coding and I'm currently looking for a job in the area. I'm always looking to learn more and expand my knowledge.
 ![Mauricio-Chiapetta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauricio-Chiapetta&show_icons=true&theme=tokyonight)
 
-## Tecnologias que eu utilizo:
-#### Estudando: React,Typescript,etc...
+## Technologies:
+#### studying: React,Typescript,etc...
 
 <div style="display: inline_block">
 
@@ -21,7 +20,7 @@ Sou estudante de programação, amo codificar e atualmente procurando uma oportu
 </div>
 <br>
 
-#### Redes Sociais
+#### Social Media
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-chiapetta-ba0b33251)
 
 
