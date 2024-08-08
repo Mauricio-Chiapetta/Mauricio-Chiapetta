@@ -1,6 +1,7 @@
 ### Hi, i'm Mauricio Chiapetta! 🤙  
 
 I'm a programming student, I love coding and I'm currently looking for a job in the area. I'm always looking to learn more and expand my knowledge.
+
 ![Mauricio-Chiapetta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauricio-Chiapetta&show_icons=true&theme=tokyonight)
 
 ## Technologies:
