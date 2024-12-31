@@ -1,8 +1,15 @@
-### Hi, i'm Mauricio Chiapetta! 🤙  
+# Hi there, I'm Mauricio Chiapetta! 👋
 
-I'm a programming student, I love coding and I'm currently looking for a job in the area. I'm always looking to learn more and expand my knowledge.
+🎯 **Aspiring Developer | Lifelong Learner | Tech Enthusiast**
 
-![Mauricio-Chiapetta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauricio-Chiapetta&show_icons=true&theme=tokyonight)
+I'm a passionate programming student with a love for solving problems and creating impactful solutions through code. Currently, I'm actively seeking opportunities to kickstart my career in tech, where I can contribute, grow, and make a difference.
+
+💡 I thrive on continuous learning and enjoy exploring new technologies to expand my skill set. Let's build something amazing together! 🚀
+
+
+![](https://github-readme-stats.vercel.app/api?username=mauricio-chiapetta&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mauricio-chiapetta&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-chiapetta&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## Technologies:
 #### studying: React,Typescript,etc...
